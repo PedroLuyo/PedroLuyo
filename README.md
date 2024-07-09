@@ -96,7 +96,7 @@ Actualmente mi objetivo es crecer profesionalmente y aportar valor a los proyect
 ### 💬 Conectemos
 
 - **Email**: pedro.porras@vallegrande.edu.pe
-- **LinkedIn**: [Pedro Hugo Porras Luyo](https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/pedro-hugo-porras-luyo-6834a923b/)
+- **LinkedIn**: [Pedro Hugo Porras Luyo](https://www.linkedin.com/in/pedro-hugo-porras-luyo-6834a923b/)
 
 
 ## 📊 Estadísticas de GitHub
