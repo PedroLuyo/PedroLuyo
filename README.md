@@ -89,12 +89,6 @@ Actualmente mi objetivo es crecer profesionalmente y aportar valor a los proyect
 - Computación en la nube
 - Base de datos
 
-### 💬 Conectemos
-
-- **Email**: pedro.porras@vallegrande.edu.pe
-- **LinkedIn**: [Pedro Hugo Porras Luyo](https://www.linkedin.com/in/pedro-hugo-porras-luyo-6834a923b/)
-
-
 ## 📊 Estadísticas de GitHub
 
 ### Top Lenguajes Utilizados
