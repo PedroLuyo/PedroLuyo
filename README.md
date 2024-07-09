@@ -12,7 +12,6 @@ Actualmente mi objetivo es crecer profesionalmente y aportar valor a los proyect
 
 <code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="150px" height="75px"></code>
-<code><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" width="150px" height="75px"></code>
 
 #### Frameworks y Librerías
@@ -72,6 +71,7 @@ Actualmente mi objetivo es crecer profesionalmente y aportar valor a los proyect
 
 <code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="150px" height="75px"></code>
 
 ##### Formatos de Datos
 
