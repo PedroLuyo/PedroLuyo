@@ -83,10 +83,6 @@ Actualmente mi objetivo es crecer profesionalmente y aportar valor a los proyect
 <code><img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg" width="150px" height="75px"></code>
 
 
-### 🚀 Proyectos
-
-- **GastroConnect**: Un proyecto de responsabilidad social dirigido a [breve descripción del proyecto y sus objetivos].
-
 ### 🌱 Aprendiendo Actualmente
 
 - Desarrollo de backend en Java
