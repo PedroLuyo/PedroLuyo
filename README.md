@@ -6,9 +6,9 @@
 
 Actualmente mi objetivo es crecer profesionalmente y aportar valor a los proyectos en que participe.
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y Herramientas con las que he desarrollado / interactuado
 
-#### Lenguajes de Programación con las que he desarrollado / interactuado
+#### Lenguajes de Programación
 
 <code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="150px" height="75px"></code>
