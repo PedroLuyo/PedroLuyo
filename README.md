@@ -2,7 +2,7 @@
 
 ### ¡Bienvenido a mi perfil de GitHub!
 
-¡Hola!, soy un estudiante de la institución tecnológica Valle Grande. Apasionado por el desarrollo de software, me dedico a seguir aprendiendo y profundizando el desarrollo backend en el lenguaje Java.
+¡Hola!, soy egresado del institución tecnológica Valle Grande. Apasionado por el desarrollo de software, me dedico a seguir aprendiendo y profundizando el desarrollo backend en el lenguaje Java.
 
 Actualmente mi objetivo es crecer profesionalmente y aportar valor a los proyectos en que participe.
 
