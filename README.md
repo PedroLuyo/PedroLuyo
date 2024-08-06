@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+## ¡Hola! 👋
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### ¡Bienvenido a mi portafolio web!
 
-## Available Scripts
+Soy Pedro PL, un egresado en Análisis de Sistemas con una sólida formación en desarrollo backend. Mi pasión es crear soluciones robustas y escalables, especializándome en Java, Python y tecnologías web.
 
-In the project directory, you can run:
+### 🛠️ Tecnologías y Herramientas
 
-### `npm start`
+#### Lenguajes de Programación
+<code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="150px" height="75px"></code>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Frameworks y Librerías
+<code><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="150px" height="75px"></code>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Bases de Datos
+<code><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" width="150px" height="75px"></code>
 
-### `npm test`
+#### DevOps y Cloud
+<code><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width="150px" height="75px"></code>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Herramientas y Tecnologías
+<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" width="150px" height="75px"></code>
 
-### `npm run build`
+### 🌱 Enfoque Actual
+- Desarrollo de backend en Java
+- Arquitecturas de microservicios
+- Computación en la nube
+- Bases de datos avanzadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 📫 Contacto
+- LinkedIn: [Pedro Hugo Porras Luyo](https://www.linkedin.com/in/pedro-hugo-porras-luyo-6834a923b/)
+- GitHub: [PedroLuyo](https://github.com/PedroLuyo)
+- Email: pedro.luyo.2003@gmail.com
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Para más detalles sobre mis proyectos y experiencia, ¡visita mi portafolio web!
