@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/web/static/css/main.a0384151.css",
+    "main.js": "/web/static/js/main.eed27dd6.js",
+    "static/js/453.c978e124.chunk.js": "/web/static/js/453.c978e124.chunk.js",
+    "static/media/vglocal.png": "/web/static/media/vglocal.802d27798d35ee8e1e47.png",
+    "static/media/cat.jpg": "/web/static/media/cat.9687208aa914ef26c8a1.jpg",
+    "static/media/icon_black.png": "/web/static/media/icon_black.d2140540d72081c5056e.png",
+    "static/media/icon_white.png": "/web/static/media/icon_white.338831df119d96fb32d6.png",
+    "static/media/vallegrandelogo.png": "/web/static/media/vallegrandelogo.bf58c9bae785172b0aff.png",
+    "index.html": "/web/index.html",
+    "main.a0384151.css.map": "/web/static/css/main.a0384151.css.map",
+    "main.eed27dd6.js.map": "/web/static/js/main.eed27dd6.js.map",
+    "453.c978e124.chunk.js.map": "/web/static/js/453.c978e124.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0384151.css",
+    "static/js/main.eed27dd6.js"
+  ]
+}
